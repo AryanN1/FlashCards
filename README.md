@@ -59,7 +59,3 @@ var brokenCloze("This doesn't work", "oops");
 ``` 
 
 - - -
-
-## Copyright
-
-Coding Boot Camp © 2016. All Rights Reserved.
